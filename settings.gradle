@@ -1,0 +1,5 @@
+include ':common-2.12.4'
+include ':uvccamera'
+include ':usbcameracommon'
+include ':app'
+rootProject.name = "UVCCameraDemo"
